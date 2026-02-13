@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "hsvfd-backend",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "3ada58b9-07e4-41f1-b62c-6278805bcdf2",
+			"database_name": "hsvfd"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
